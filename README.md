@@ -1,6 +1,11 @@
-# Ferramentas utilizadas
+# Ferramentas / Linguagens utilizadas
 
 * Flutter
+* Java
+* JavaScript
+* C#
+* Blender
+* Unity
 
 <!--
 **juliano-sc98/juliano-sc98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
